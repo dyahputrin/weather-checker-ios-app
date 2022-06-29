@@ -63,6 +63,7 @@
 				F3B4CFAD286BF407002656D2 /* Assets.xcassets */,
 				F3B4CFAF286BF407002656D2 /* LaunchScreen.storyboard */,
 				F3B4CFB2286BF407002656D2 /* Info.plist */,
+				F3B4CFA8286BF403002656D2 /* WeatherViewController.swift */,
 			);
 			path = "Weather Checker";
 			sourceTree = "<group>";
@@ -70,7 +71,6 @@
 		F3B4CFB8286BF9F2002656D2 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				F3B4CFA8286BF403002656D2 /* WeatherViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
